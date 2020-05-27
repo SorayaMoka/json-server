@@ -6,7 +6,8 @@
         "commune":"Loir et Cher",
         "spect_exploitation":"agriculture biologique"
       }
-    ]
+    ],
+    "img": "../img/camembert.png"
   },
   {
     "id": 2,
@@ -29,7 +30,8 @@
         "lieu_naissance":"Morbihan - Ferme de Gérard",
         "alimentation": "Herbe frâiche / foin"
       }
-    ]
+    ],
+    "img": "../img/th.png"
   },
   {
     "id": 3,
@@ -49,7 +51,8 @@
       { "type_lait":"lait cru",
         "transformation":"ferment lactique"
       }
-    ]
+    ],
+    "img": "../img/yaourt.png"
   }
 ]
 }
