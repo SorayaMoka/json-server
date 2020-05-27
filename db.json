@@ -7,7 +7,7 @@
         "spect_exploitation":"agriculture biologique"
       }
     ],
-    "img": "camembert.png"
+    "img": "../img/camembert.png"
   },
   {
     "id": 2,
@@ -31,7 +31,7 @@
         "alimentation": "Herbe frâiche / foin"
       }
     ],
-    "img": "th.png"
+    "img": "../img/th.png"
   },
   {
     "id": 3,
@@ -52,7 +52,7 @@
         "transformation":"ferment lactique"
       }
     ],
-    "img": "yaourt.png"
+    "img": "../img/yaourt.png"
   }
 ]
 }
