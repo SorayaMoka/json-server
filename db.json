@@ -1,5 +1,6 @@
 {"products": [
-  { "name":"camembert", "num_agrement":"FR 01.053.07 CE", "label":"La Bille Bleue", "date_collecte":"2020-10-13T10:53:53.000+00:00", "date_transformation":"2020-12-13T10:53:53.000+00:00", "type_elevage":"Petit élevage",
+  { "id": 1,
+    "name":"camembert", "num_agrement":"FR 01.053.07 CE", "label":"La Bille Bleue", "date_collecte":"2020-10-13T10:53:53.000+00:00", "date_transformation":"2020-12-13T10:53:53.000+00:00", "type_elevage":"Petit élevage",
     "information_elevage": [
       { "nom_elevage":"La petite Ferme",
         "commune":"Loir et Cher",
@@ -7,7 +8,9 @@
       }
     ]
   },
-  { "name":"Biftek",
+  {
+    "id": 2,
+    "name":"Biftek",
     "num_agrement":"FR 11.058.07 nCE",
     "label":"La Bille Bleue",
     "date_collecte":"2020-10-13T10:53:53.000+00:00",
@@ -28,7 +31,9 @@
       }
     ]
   },
-  { "name":"Yaourt",
+  {
+    "id": 3,
+    "name":"Yaourt",
     "num_agrement":"FR n21.073.07 nCE",
     "label":"La Bille Bleue",
     "date_collecte":"2020-11-13T10:53:53.000+00:00",
